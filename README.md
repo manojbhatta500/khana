@@ -8,11 +8,20 @@ Khana is a Flutter application designed to serve as a foundational project for h
 - Meal Details: Access in-depth information about each meal, including cooking instructions.
 - Favorites: Save your preferred meals to the Favorites screen for quick access.
 
+![Menu](https://github.com/manojbhatta500/khana/blob/main/screenshots/menu.png)
+![fav](https://github.com/manojbhatta500/khana/blob/main/screenshots/fav.png)
+![fav](https://github.com/manojbhatta500/khana/blob/main/screenshots/fav2.png)
+
 ## Key Highlights
 
 - **Efficient Data Handling:** Khana efficiently manages a vast dataset of meals and categories, ensuring a smooth user experience.
 - **Logical Code Structure:** The app's codebase is logically structured for enhanced readability and maintainability.
 - **Custom Widgets:** Utilizes custom Flutter widgets to create a clean and reusable user interface.
+
+![Dish](https://github.com/manojbhatta500/khana/blob/main/screenshots/dish.png)
+![Dish2](https://github.com/manojbhatta500/khana/blob/main/screenshots/dish2.png)
+![DishItems](https://github.com/manojbhatta500/khana/blob/main/screenshots/dishitems.png)
+![DishItem](https://github.com/manojbhatta500/khana/blob/main/screenshots/dishitem.png)
 
 ## How It Works
 
